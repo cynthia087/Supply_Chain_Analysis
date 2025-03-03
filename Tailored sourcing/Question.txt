@@ -1,0 +1,18 @@
+A company buys inventory of four products for its production process. Annual demand, common and product specific ordering cost, unit cost, and holding cost rate are given in the table below. Assume that demand is steady.
+
+Ordering cost		
+Product	Demand	Common	Specific Unit cost Holding cost rate
+1	1000	150	20	50	    0.15
+2	300	150     25	60          0.15
+3	100	150     30	30          0.15
+4	50	150     50      30          0.15
+
+Find annual operational cost (holding + ordering) for the optimal sourcing strategy if:
+
+1. Products are sourced independently;
+
+2. All four products are sourced with the same frequency;
+
+3. Order frequencies are determined according to the tailored aggregation strategy.
+
+This assignment is individual. Feel free to use any tool you like: pen and paper, Excel, or Python. If using Python, post a URL to your notebook. Otherwise, upload your document or spreadsheet. Report the cost of the tailored aggregation strategy in the text field.
